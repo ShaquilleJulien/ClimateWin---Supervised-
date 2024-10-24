@@ -4,11 +4,11 @@ mainland Europe. It’s concerned with the increase in extreme weather events, e
 past 10 to 20 years. 
 
 # Key Questions
-● How is machine learning used? Is it applicable to weather data?
-● ClimateWins has heard of ethical concerns surrounding machine learning and AI. Are
+- How is machine learning used? Is it applicable to weather data?
+- ClimateWins has heard of ethical concerns surrounding machine learning and AI. Are
 there any concerns specific to this project?
-● Historically, what have the maximums and minimums in temperature been?
-● Can machine learning be used to predict whether weather conditions will be favorable on
+- Historically, what have the maximums and minimums in temperature been?
+- Can machine learning be used to predict whether weather conditions will be favorable on
 a certain day? (If so, it could also be possible to predict danger.)
 
 # Tools Used
