@@ -1,4 +1,4 @@
-# ClimateWin---Supervised-
+# ClimateWin---Machine Learning (Supervised)
 ClimateWins wants you to assess the tools available to categorize and predict the weather in
 mainland Europe. It’s concerned with the increase in extreme weather events, especially in the
 past 10 to 20 years. 
